@@ -1,4 +1,9 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ledu1017&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ledu1017&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ledu1017&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ledu1017&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ledu1017&theme=default&utcOffset=8)
 
 <!--
 **ledu1017/ledu1017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
